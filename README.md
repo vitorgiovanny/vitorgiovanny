@@ -2,7 +2,7 @@
 
 I'm Vitor Giovanny, and I love programming.
 
-[![Linkedin: Vitor Giovanny](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-giovanny/)](https://www.linkedin.com/in/loiane/)
+[![Linkedin: Vitor Giovanny](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-giovanny/)](https://www.linkedin.com/in/vitor-giovanny/)
 
 
 ---
