@@ -32,3 +32,4 @@ Tools:
 
 IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-visual%20studio-512BD4?style=flat-square&logo=visual-studio&logoColor=white)
