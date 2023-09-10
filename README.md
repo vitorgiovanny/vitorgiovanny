@@ -8,7 +8,7 @@ I'm Vitor Giovanny, and I love programming.
 
 These are some of the technologies and tools that I work with:
 
-Backend: ![dotnet]()
+Backend: ![dotnet](https://img.shields.io/badge/-dotnet-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 Frontend:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
