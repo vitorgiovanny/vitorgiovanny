@@ -1,8 +1,6 @@
-# vitorgiovanny
-
 ## Hi There
 
-### I'm Vitor Giovanny, and I love programming.
+I'm Vitor Giovanny, and I love programming.
 
 
 ---
